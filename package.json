@@ -14,5 +14,8 @@
     "project"
   ],
   "author": "vaibhav chauhan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.3.2"
+  }
 }
